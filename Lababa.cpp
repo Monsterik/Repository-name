@@ -19,5 +19,5 @@ int main(int argc, char *argv[])
 		}
 		cout << "Res:" << arr[m - 1] * arr[m - 1];
 	}
-	return 0;
+	return 0
 }
